@@ -1,0 +1,10 @@
+* binary-search-tree
+
+Mirror of https://git.mfiano.net/mfiano/binary-search-tree
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mfiano/binary-search-tree.git   |
+| commit  | {"messa  |
+| systems | binary-search-tree |
+|---------+-------------------------------------------|
+
